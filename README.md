@@ -6,7 +6,7 @@ Um portfólio web interativo com identidade visual e animações inspiradas na i
 
 ## ✨ Demonstração & Inspiração
 
-- **Demo / Deploy:** `[https://seu-usuario.github.io/seu-repositorio/]`
+- **Demo / Deploy:** `https://github.com/izumilg/Portf-lio`
 - **Estética e Referências:** Interface angular, transições de tela e navegação interativa inspiradas no universo de *Persona 3 Reload*.
 
 ## 🧩 Funcionalidades & Seções
