@@ -29,4 +29,4 @@ Ajuste conforme a stack final implementada no código:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/](https://github.com/)[SEU-USUARIO]/[SEU-REPOSITORIO].git
+   git clone [https://github.com/](https://github.com/)[izumilg]/[https://github.com/izumilg/Portf-lio.git].git
